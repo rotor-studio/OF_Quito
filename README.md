@@ -1,5 +1,5 @@
 
-# Openframeworks workshop with astronomical data in Quito (Ecuador)
+# Openframeworks workshop with astronomical data / Quito (Ecuador) / Haussmann Lab 
 
 Code example built step by step during the workshop to introduce students to OpenFrameworks & data visualization.
 
